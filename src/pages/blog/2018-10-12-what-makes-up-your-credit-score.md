@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: What Makes Up Your Credit Score
+title: Your Credit Score Explained
 date: 2018-10-12T14:46:06.821Z
 description: >-
   We reveal exactly what goes into a credit score and how it’s calculated, so
