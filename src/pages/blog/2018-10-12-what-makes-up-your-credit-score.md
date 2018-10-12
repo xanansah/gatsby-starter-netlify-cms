@@ -17,9 +17,9 @@ What goes into a credit score and how it’s calculated has been jealously guard
 
 Take note: this credit score explanation only applies to credit scores calculated by Callcredit, the Credit Reference Agency that provides the data we need to create your credit report. There is no universal credit score. What makes up your credit score with Experian and Equifax (the other two Credit Reference Agencies) will be different.
 
+# What goes into a credit score? Your credit score explained
 
-
-
+<div style="position: relative; width: 100%; height: 0; padding-bottom: 100%;"><iframe style="overflow: hidden; position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://content.totallymoney.com/wp-content/themes/totallymoney/inc/creditScore.html" scrolling="no"></iframe></div>
 
 # Payment behaviour explains 48% of your credit score
 
